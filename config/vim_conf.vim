@@ -8,6 +8,7 @@ filetype plugin on
 syntax on
 filetype indent on
 set autoindent
+set smartindent
 
 set mouse=a
 set clipboard=unnamedplus
