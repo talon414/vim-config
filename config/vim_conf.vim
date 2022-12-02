@@ -60,11 +60,10 @@ let g:netrw_list_hide.=',\(^\|\s\s\)\zs\.\S\+'
 
 "splitting
 
-	set splitbelow
-	set splitright
+	set splitbelow splitright
 
 " auto complete
-	set wildmode=longest,list,full
+	"set wildmode=longest,list,full
 
 "window shortcuts
 
